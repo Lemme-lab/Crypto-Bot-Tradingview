@@ -11,7 +11,7 @@ half an hour with the last one.
 ![Screenshot_54](https://user-images.githubusercontent.com/71924682/149637613-4ee43c99-5019-4d66-b098-21d79172f8bf.png)
 We shape the input data and drop the useless parts. 
 We also change little things to make the data trainabel 
-such as drop "NA" and change the index.
+such as drop "NAN" and change the index.
 
 ## Shaping Data/Training:
 We shape the data int X and Y arrays. The X-Data array takes
