@@ -21,6 +21,7 @@ We shape the data int X and Y arrays. The X-Data array takes
 Then we compile and train a LSTM Neural network with a 
 batch size of 10 and for the the best results with a 
 epoch of over 1000 iterations
+![Screenshot_57](https://user-images.githubusercontent.com/71924682/149637684-4defe038-79b2-4061-8185-fc6eeeba456e.png)
 
 
 ## Output Data
