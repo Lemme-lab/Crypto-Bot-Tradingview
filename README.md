@@ -15,9 +15,13 @@ such as drop "NAN" and change the index.
 
 ## Shaping Data/Training:
 We shape the data int X and Y arrays. The X-Data array takes
-20 Inpur-data/time per Output Data. Then we compile and
-train a LSTM Neural network width a batch size of 10 and for
-the the best results with a epoch over 1000 iterations
+20 Inpur-data/time per Output Data. 
+![Screenshot_56](https://user-images.githubusercontent.com/71924682/149637652-62413a7f-2572-4fea-a823-6fd915c1813f.png)
+
+Then we compile and train a LSTM Neural network with a 
+batch size of 10 and for the the best results with a 
+epoch of over 1000 iterations
+
 
 ## Output Data
 ![Screenshot_55](https://user-images.githubusercontent.com/71924682/149637612-1b4e7f75-7044-4670-8d4e-2f08e4a64756.png)
