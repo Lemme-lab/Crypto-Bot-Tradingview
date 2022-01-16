@@ -1,5 +1,7 @@
 # AI Crypto Bot
 
+![Screenshot_92](https://user-images.githubusercontent.com/71924682/149665886-4e786ce6-e325-40be-bb6e-8be2ea8d651a.png)
+
 ## Crypto Bot Idea
 
 The idea was to programm a bot which gets 
